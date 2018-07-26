@@ -1,7 +1,7 @@
 {
   "name": "emulsify-gulp",
   "description": "A collection of useful gulp tasks.",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "repository": "https://github.com/spfaffly/emulsify-gulp/",
   "dependencies": {
     "breakpoint-sass": "^2.7.1",
@@ -37,5 +37,8 @@
     "sassdoc": "^2.5.0",
     "singularitygs": "^1.7.0",
     "webpagetest": "^0.3.4"
+  },
+  "resolutions": {
+    "natives": "1.1.3"
   }
 }
